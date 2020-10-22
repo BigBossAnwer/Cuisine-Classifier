@@ -1,6 +1,6 @@
 # Cuisine Classification Pipeline
 
-An accurate, low-latency Spark Streaming Dataset ML cuisine classifier pipeline for a recipe dataset provided by [Yummly.com](yummly.com)
+An accurate, low-latency Spark Streaming Dataset ML cuisine classifier pipeline for a recipe dataset provided by [Yummly.com](https://www.yummly.com/)
 
 ## Prerequisites
 
