@@ -1,0 +1,5 @@
+{
+	linearsvc_a19dd6408a89-maxIter: 20,
+	linearsvc_a19dd6408a89-regParam: 0.0,
+	linearsvc_a19dd6408a89-tol: 1.0E-4
+}
